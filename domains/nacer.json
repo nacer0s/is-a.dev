@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "nacer0s",
+    "email": "nacer.eddine.dev@gmail.com"
+  },
+  "records": {
+    "CNAME": "36dbdcac1799c4adc042ec906885aee3": "ns1.byet.org"
+  }
+  "proxied": true
+}
